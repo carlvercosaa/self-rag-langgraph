@@ -39,6 +39,9 @@ O objetivo é **criar um pipeline inteligente de recuperação e geração de co
 
 ---
 
-## 📂 **Estrutura do Projeto**
-📌 O projeto está organizado da seguinte forma:
+## 🚀 **Como Executar o Projeto**
+📌 Para rodar o **Self-RAG Pipeline**, siga os passos abaixo:
+
+### ✅ **1. Clone o Repositório**
+
 
